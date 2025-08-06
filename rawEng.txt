@@ -1,0 +1,22 @@
+Zadorozhnyi Oleh
+
+https://orcid.org/0009-0000-8183-3677
+
+Development of software tools for project management
+
+Abstract.
+The article considers an approach to the development of software tools for project management (project management).
+The main functional requirements for such systems are determined.
+An analysis of popular software products used in the field of project management, such as Jira, Trello, Microsoft Project, is conducted.
+Particular attention is paid to the criteria for selecting tools depending on the scale of the project and the specifics of the team.
+An example of implementing one's own software tool for project management using modern technologies is given.
+The results of the study may be useful for IT specialists, managers, and software developers
+
+Keywords: project management, software, planning, task control, systems development, project management.
+
+References
+Svintsytska O.M., Puleko I.V. Integration of Jira, Bitbucket and Sourcetree in the IT project management system // Technical Engineering. – 2023. – No. 2(92). – P. 102–108. DOI: https://doi.org/10.26642/ten-2023-2(92)-102-108.
+Rudenko Yu., Agadzhanov-Gonzalez K., Agadzhanova S., Batalova A. Using the Trello service in the educational process of the university // Education. Innovation. Practice. – 2023. – T. 11, No. 7. – P. 92–97. DOI: 10.31110/2616-650X-vol11i7-012.
+Radkevych O. Project Management Software in the Field of Professional (Vocational) Education // Scientific Herald of the Institute of Vocational Education and Training of NAES of Ukraine. Professional Pedagogy. – 2019. – No. 2(19). – P. 124–132. DOI: 10.32835/2223-5752.2019.19.124-132.
+Apache Thrift - The Apache Software Foundation. [Online resource] - URL: https://thrift.apache.org (access date: 08/06/2025).
+ISO/IEC 19510:2013. Information technology — Object Management Group Business Process Model and Notation. – https://www.iso.org/standard/62652.html
